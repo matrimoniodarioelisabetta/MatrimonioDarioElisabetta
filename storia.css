@@ -1,6 +1,12 @@
 .bodystory{
   width: 100%;
 }
+.imgstoria{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
 .widthicon {
   height: 20px;
 }
@@ -363,6 +369,7 @@ button:active {
 
 .marginb{
   margin-top: 16px;
+  margin-bottom:16px;
 }
 
 .dstoria{
