@@ -1,12 +1,7 @@
 .bodystory{
   width: 100%;
 }
-.imgstoria{
-  display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-}
+
 .widthicon {
   height: 20px;
 }
